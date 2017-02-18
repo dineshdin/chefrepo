@@ -1,0 +1,4 @@
+https://github.com/mitchellh/vagrant/issues/6497
+https://github.com/mitchellh/vagrant/issues/6154
+http://stackoverflow.com/questions/18528717/vagrant-shared-and-synced-folders
+http://superuser.com/questions/756758/is-it-possible-to-disable-default-vagrant-synced-folder
