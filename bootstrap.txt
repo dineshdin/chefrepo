@@ -1,0 +1,1 @@
+knife bootstrap 35.165.190.192 --ssh-user ubuntu --sudo --identity-file dn.pem -N ec2-35-165-190-192.us-west-2.compute.amazonaws.com
